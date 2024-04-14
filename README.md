@@ -1,4 +1,4 @@
-![Varun_Singh_Tanwar](https://github.com/Varuntanwarr/Varuntanwarr/assets/136941767/00ba707c-9c4a-4b6c-8635-09c00e42d9c2)
+![logo](https://github.com/Varuntanwarr/Varuntanwarr/blob/Varuntanwarr/logo.gif)
 
 <h1 align="center">Hi 👋, I'm Varun Singh</h1>
 <h3 align="center">A Passionate Python Developer From India</h3>
