@@ -7,8 +7,9 @@
 <p align="left"> <a href="https://twitter.com/varun_singh06" target="blank"><img src="https://img.shields.io/twitter/follow/varun_singh06?logo=twitter&style=for-the-badge" alt="varun_singh06" /></a> </p>
 
 - 📫 How to reach me **varunsingh8283@gmil.com**
+- 🌱 I’m currently Focusing on MERN Stack
 
-- ⚡ Fun fact **i am creative😎**
+- ⚡ Fun fact If I were a genius scientist Newton, I would most like to eat that apple rather than to find the science behind it.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
